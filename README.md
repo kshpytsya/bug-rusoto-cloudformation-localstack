@@ -1,0 +1,1 @@
+# bug-rusoto-cloudformation-localstack
